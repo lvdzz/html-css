@@ -1,0 +1,22 @@
+.noidung {
+   font-family: 'Courier New', Courier, monospace;
+   color: #fff;
+   background-color: black;
+   padding: 20px;
+   border-style: solid;
+   border-color: red;
+   border-width: 10px;
+   margin: 0;
+}
+div{
+    width: 500px;
+    height: 100px;
+}
+#box1 {
+    margin: 50px;
+    background-color: blue;
+}
+
+#box2{
+    background-color: green;
+}
